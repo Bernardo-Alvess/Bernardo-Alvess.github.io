@@ -18,3 +18,4 @@ Digite na barra de pesquisa `bernardo-alvess.github.io/{nome_do_projeto}`
     * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/curriculo)
     
 - [vavanews](https://bernardo-alvess.github.io/vavanews/) - para um site de noticias sobre o jogo Valorant, site criado usando Bootstrap, HTML e CSS.
+   * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/vavanews)
