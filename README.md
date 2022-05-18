@@ -4,7 +4,7 @@ Repositório para publicar meus projetos web
 
 # Como acessar os projetos:
 
-Digite na barra de pesquisa 'bernardo-alvess.github.io/{nome_do_projeto}'
+Digite na barra de pesquisa `bernardo-alvess.github.io/{nome_do_projeto}`
 
 # O que você vai encontrar aqui?
 
