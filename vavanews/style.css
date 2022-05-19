@@ -45,11 +45,13 @@ body{
 
 .news-block article{
     border: 1px solid #111;
-    transition: 1s ease-in-out;
+    border-radius: 10px;
+    transition: 0.5s ease-in-out;
     padding: 15px !important;
 }
 
 .news-block article:hover{
+    background: #000;
     border: 1px solid #FF4655;
 }
 
