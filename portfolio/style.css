@@ -190,10 +190,6 @@ nav a:hover{
 
 /*Individual Projects*/
 
-.card-void{
-    background: url("imgs/blackHoleMod2.png");
-}
-
 .card-uefa{
     background: url("imgs/UEFAmod.png");
     background-position: top;
