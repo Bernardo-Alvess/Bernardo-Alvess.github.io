@@ -199,6 +199,11 @@ nav a:hover{
     background-position: top;
 }
 
+.card-vava{
+    background: url("imgs/vava300.jpg");
+    background-position: center;
+}
+
 /*About section*/
 
 .about{
