@@ -110,7 +110,7 @@
             </section>
             <!-- #endregion -->
             <!-- #region Section contendo as asides-->
-            <aside class="col-lg-3 d-sm-none d-xs-none d-md-none d-lg-block m-1">
+            <aside class="col-lg-3 d-sm-none d-xs-none d-md-none d-lg-block d-none m-1">
                 <section class="container-fluid d-flex flex-column justify-content-evenly">
                     <article class="container-fluid mb-3 mt-3 p-1 m-1">
                         <div class="row">
@@ -174,21 +174,51 @@
         </div>
     </main>
     <footer class="container-fluid h-25 p-2 ">
-        <div class="row">
             <!--#region Footer para telas de tamanho grande-->
             <div class="container-fluid d-flex align-items-center text-center d-none d-md-block">
                 <div class="d-flex flex-row align-items-center justify-content-center">
-                    <div class="col-md-8">
-                        <div class="d-flex flex-row justify-content-evenly align-items-center">
-                            <img src="imgs/vava150.png" alt="" loading="lazy">
-                            <p class="w-50">
-                                No VavaNews, você encontra tudo sobre Valorant e as mais diversas pinadas dentro da cena
-                                competitiva e amadora deste amado jogo.
-                            </p>
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="d-flex flex-row justify-content-evenly align-items-center">
+                                <img src="imgs/vava150.png" alt="" loading="lazy">
+                                <p class="w-50">
+                                    No VavaNews, você encontra tudo sobre Valorant e as mais diversas pinadas dentro da cena
+                                    competitiva e amadora deste amado jogo.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="d-flex justify-content-center flex-column align-items-center">
+                                <div class="d-flex align-items-center">
+                                    <div>
+                                        <h6>VavaNews</h6>
+                                        <p>51 3665 4153</p>
+                                    </div>
+                                    <i class="bi bi-whatsapp"></i>
+                                </div>
+                                <div class="d-flex align-items-center">
+                                    <div>
+                                        <h6>RADIO BREEZE</h6>
+                                        <p>51 4002 8922</p>
+                                    </div>
+                                    <i class="bi bi-whatsapp"></i>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="d-flex justify-content-center flex-column align-items-center">
+                </div>
+            </div>
+            <!-- #endregion -->
+            <!-- #region Footer responsivo para telas pequenas-->
+            <div class="d-flex align-items-center justify-content-center">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="footer-logo-teste container-fluid d-md-none d-sm-block d-flex flex-row align-items-center justify-content-center">
+                            <img src="imgs/vava100.png" alt="VavaNews logo" loading="lazy">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 d-xs-none d-sm-block d-none d-md-none d-lg-none d-xl-none">
+                        <div class="container-fluid d-flex flex-row gap-5 justify-content-center align-items-center">
                             <div class="d-flex align-items-center">
                                 <div>
                                     <h6>VavaNews</h6>
@@ -206,38 +236,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- #endregion -->
-            <!-- #region Footer responsivo para telas pequenas-->
-            <div class="d-flex align-items-center justify-content-center">
-                <div class="col-sm-6 col-xs-12">
-                    <div
-                        class="footer-logo-teste container-fluid d-md-none d-sm-block d-flex flex-row align-items-center justify-content-center">
-                        <img src="imgs/vava100.png" alt="VavaNews logo" loading="lazy">
-                    </div>
-                </div>
-                <div class="col-sm-6 d-xs-none d-sm-block d-none d-md-none d-lg-none d-xl-none">
-                    <div class="container-fluid d-flex flex-row gap-5 justify-content-center align-items-center">
-                        <div class="d-flex align-items-center">
-                            <div>
-                                <h6>VavaNews</h6>
-                                <p>51 3665 4153</p>
-                            </div>
-                            <i class="bi bi-whatsapp"></i>
-                        </div>
-                        <div class="d-flex align-items-center">
-                            <div>
-                                <h6>RADIO BREEZE</h6>
-                                <p>51 4002 8922</p>
-                            </div>
-                            <i class="bi bi-whatsapp"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <!--#endregion-->
         </div>
     </footer>
+    <script src="script.js"></script>
 </body>
-
 </html>
