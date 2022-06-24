@@ -19,5 +19,9 @@ Digite na barra de pesquisa `bernardo-alvess.github.io/{nome_do_projeto}`
     
 - [vavanews](https://bernardo-alvess.github.io/vavanews/) - para um site de noticias sobre o jogo Valorant, site criado usando Bootstrap, HTML e CSS.
    * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/vavanews)
+
 - [Global_temp](https://bernardo-alvess.github.io/global_temp/) - para um site com um gráfico informando a diferença da temperatura média da Terra ao redor do tempo
     * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/global_temp)
+
+- [Pokédex](https://bernardo-alvess.github.io/pokedex/) - para um site onde é possível encontrar informações sobre todos os pokémons da primeira geração
+* [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/pokedex)
