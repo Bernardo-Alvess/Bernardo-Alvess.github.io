@@ -24,4 +24,4 @@ Digite na barra de pesquisa `bernardo-alvess.github.io/{nome_do_projeto}`
     * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/global_temp)
 
 - [Pokédex](https://bernardo-alvess.github.io/pokedex/) - para um site onde é possível encontrar informações sobre todos os pokémons da primeira geração
-* [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/pokedex)
+   * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/pokedex)
