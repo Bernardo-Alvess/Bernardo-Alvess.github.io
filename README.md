@@ -24,6 +24,6 @@ Digite na barra de pesquisa `bernardo-alvess.github.io/{nome_do_projeto}`
     * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/global_temp)
 
 - [Pokédex](https://bernardo-alvess.github.io/Pokedex/) - para um site onde é possível encontrar informações sobre todos os pokémons da primeira geração, utililza da [PokeAPI](https://pokeapi.co/) para as informaçãoes sobre os pokémons
-   * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/pokedex)
+   * [repositório](https://github.com/Bernardo-Alvess/Pokedex)
 
 - [Termo](https://github.com/Bernardo-Alvess/termo) - Um clone do jogo [Termo](https://term.ooo/), criado com NodeJS, animejs, CSS, HTML e JS
