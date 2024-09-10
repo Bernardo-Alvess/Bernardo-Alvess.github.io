@@ -13,7 +13,7 @@ Alguns projetos estão hospedados no Render, por isso, podem demorar a responder
 
 - [Chatter](https://chatter-bernas.onrender.com) - Uma aplicação de chat em tempo real, criado com NodeJS, React, Javascript, TailwindCSS
   * [repositório](https://chatter-bernas.onrender.com/)
-  * 
+    
 - [vavanews](https://bernardo-alvess.github.io/vavanews/) - para um site de noticias sobre o jogo Valorant, site criado usando Bootstrap, HTML e CSS.
    * [repositório](https://github.com/Bernardo-Alvess/Bernardo-Alvess.github.io/tree/main/vavanews)
 
